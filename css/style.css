@@ -1,0 +1,46 @@
+.bg-my-color{
+    background-color: #F5756A ;
+}
+#main-logo{
+    font-size: 28px;
+    color: rgb(231, 231, 231);
+    text-shadow: 2px 2px rgb(159, 4, 4);
+    margin: 0px;
+    padding: 0px;
+    font-weight: 600;
+    float: left;
+    
+    margin-left: ;
+    
+}
+.navbar-brand img{
+    float: left;
+    background: url() fi;
+}
+
+
+.centered {
+    position: absolute;
+    color: black;
+    top: 800px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    
+  }
+.bg-my-color2{
+    background-color:#fafafa ;
+}
+
+
+/* Default height for small devices */
+#intro-example {
+    height: 400px;
+  }
+
+  /* Height for devices larger than 992px */
+  @media (min-width: 992px) {
+    #intro-example {
+      height: 600px;
+    }
+  }
